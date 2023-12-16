@@ -1,0 +1,55 @@
+*{
+  padding:0px;
+  margin:0px;
+}
+.App{
+  width:100%;
+  height:650px;
+  background-color: beige;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container{
+  background-color: white;
+  width: 450px;
+  padding: 50px;
+  border-radius: 30px;
+  box-shadow: 2px 2px 15px black;
+}
+.total{
+  margin-top: 20px;
+  background-color: rgb(165, 224, 82);
+  border-radius: 30px;
+  text-align: center;
+  box-shadow: 1px 1px 7px black;
+}
+h1{
+  text-align: center;
+  padding: 10px;
+}
+h2{
+  text-align: center;
+  padding: 15px;
+}
+p{
+  text-align: center;
+ 
+}
+.button{
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  justify-content:space-evenly;
+
+}
+.input{
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  
+}
+
